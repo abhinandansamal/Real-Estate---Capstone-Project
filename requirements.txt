@@ -1,0 +1,10 @@
+ipykernel
+factor_analyzer
+Jinja2
+numpy
+pandas
+matplotlib
+nbformat
+plotly
+scikit-learn
+seaborn
